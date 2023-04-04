@@ -15,7 +15,7 @@ variables:
   webAppName: 'todo-node-app'
 
   # Environment name
-  environmentName: ''
+  environmentName: 'dev'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
